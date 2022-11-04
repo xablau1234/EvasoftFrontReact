@@ -2,7 +2,7 @@
   "name": "software",
   "version": "1.0.0",
   "private": true,
-  "homepage" : "https://evasoft.herokuapp.com/",
+  "homepage": "https://evasoft.herokuapp.com/",
   "engines": {
     "node": "v16.13.2",
     "npm": "8.1.2"
@@ -52,5 +52,16 @@
   },
   "devDependencies": {
     "web-vitals": "^3.0.4"
+  },
+  "description": "PARA ATUALIZAR NO GIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xablau1234/EvasoftFrontReact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xablau1234/EvasoftFrontReact/issues"
   }
 }
