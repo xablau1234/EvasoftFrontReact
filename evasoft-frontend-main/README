@@ -1,0 +1,6 @@
+PARA ATUALIZAR NO GIT
+
+- git add .
+- git commit -m 'descrição'
+- git push origin main
+- git pull origin main
