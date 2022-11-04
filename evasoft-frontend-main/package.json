@@ -13,6 +13,7 @@
     "build": "tsc && vite build",
     "start": "vite",
     "preview": "vite preview"
+    "deploy": "aws s3 sync build/ s3://evasofttcc.com --acl public-read"
   },
   "dependencies": {
     "@emotion/react": "^11.10.4",
