@@ -1,6 +1,6 @@
 import axios from 'axios'
 
 const api = axios.create({
-    baseUrl: 'https://evasoft.netlify.com'
+    baseUrl: 'https://evasoft.herokuapp.com/'
 })
 export default api;
